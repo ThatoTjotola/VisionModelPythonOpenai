@@ -1,0 +1,1 @@
+A cost effective way too access gtp4's vision model which can identify and explain images provided too it. I used this project too identify small objects in my life. Developing a UI friendly way too use it , you take a picture of the thing you want too identify then too host it i using imgbb and provide the url of the picture too vision preview
